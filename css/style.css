@@ -1903,8 +1903,8 @@ body .symp-btn{
 	.front-person-img{
 		width:65%;
 		padding-top:45%;
-		height:0;
-		margin-top:120px;
+		height:10;
+		margin-top:40px;
 	}
 	.front-person-img > img{
 		-webkit-transform:rotate(-45deg) translateY(45px);
